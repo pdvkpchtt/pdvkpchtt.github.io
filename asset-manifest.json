@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19973fc3.css",
+    "main.js": "/static/js/main.b94c8bc4.js",
+    "static/js/787.c64a46ba.chunk.js": "/static/js/787.c64a46ba.chunk.js",
+    "static/media/logo.png": "/static/media/logo.543cae55dcddab3f7ec8.png",
+    "static/media/globe.png": "/static/media/globe.a47c35aa7f8ee28b7281.png",
+    "static/media/star.png": "/static/media/star.e353cf9b3d1bf525a59c.png",
+    "static/media/search.png": "/static/media/search.9c0b35130fcf5aef1fb3.png",
+    "static/media/user.png": "/static/media/user.8d49e377c7c342895ec2.png",
+    "static/media/calendar.png": "/static/media/calendar.c89cd3379adf49cd10d5.png",
+    "static/media/open-book.png": "/static/media/open-book.7c22219ebc32efb603c9.png",
+    "static/media/app.png": "/static/media/app.efa1f13d9a3ce9751ec3.png",
+    "static/media/list.png": "/static/media/list.5f28f42f803ab38aa109.png",
+    "static/media/hostel0.png": "/static/media/hostel0.d05df93742daba39e5e7.png",
+    "static/media/vallet.png": "/static/media/vallet.3ecb09c9724537c848db.png",
+    "static/media/profile.svg": "/static/media/profile.2ab6e48325704cf34a4cfc1c78ffcfee.svg",
+    "static/media/down.svg": "/static/media/down.600ee40a8482d49a28d3a8b68a87282b.svg",
+    "index.html": "/index.html",
+    "static/media/send.svg": "/static/media/send.3e8e0cb196950c88b694c096fc47a01c.svg",
+    "main.19973fc3.css.map": "/static/css/main.19973fc3.css.map",
+    "main.b94c8bc4.js.map": "/static/js/main.b94c8bc4.js.map",
+    "787.c64a46ba.chunk.js.map": "/static/js/787.c64a46ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19973fc3.css",
+    "static/js/main.b94c8bc4.js"
+  ]
+}
